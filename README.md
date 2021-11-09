@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nandeesh68
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning fultter
-- 💞️ I’m looking to collaborate on fultter
+- 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me ...
 
 <!---
