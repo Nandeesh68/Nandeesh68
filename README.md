@@ -8,7 +8,7 @@
  
 * 💞️ I’m looking to collaborate on Django, Flutter
 
-* ✉️  You can contact me at [nandeeshbk4568@gmail.com](mailto:nandeeshbk4568@gmail.com)
+* ✉️  You can contact me at [nandeeshbk26@gmail.com](mailto:nandeeshbk26@gmail.com)
 
 
 ## Connect with me:
