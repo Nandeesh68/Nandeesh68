@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-[![Nandeesh B K's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nandeesh68&theme=dracula)]
+![Nandeesh B K's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nandeesh68&theme=github-compact)
 
 <br/>
 <br/>
