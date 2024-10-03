@@ -17,7 +17,6 @@
 <a href="https://dev.to/Nandeesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Nandeesh" height="30" width="40" /></a> -->
 <a href="https://twitter.com/NandeeshBK5" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="Nandeesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Nandeesh-b-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/Nandeesh2613" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
 
@@ -41,11 +40,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
 
-![Nandeesh B K's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nandeesh68&theme=github-compact)
-
-<br/>
 <br/>
 
 <!---
